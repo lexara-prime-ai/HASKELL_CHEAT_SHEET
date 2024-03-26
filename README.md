@@ -1,2 +1,2 @@
-# HASKELL_CHEAT_SHEET
-A basic cheat sheet for the Haskell Programming language
+### Compiling from Source(without Cabal and Stack)
+`ghc --make <source>.hs`
